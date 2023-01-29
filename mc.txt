@@ -1,0 +1,18 @@
+#Length
+ Length:
+    0.          [error]
+    15.
+    16.
+    17.
+
+#Prefix MasterCard
+ Number1:
+    0.
+    50.
+    51.
+    55.
+    56.
+    2220.
+    2221.
+    2720.
+    2721.

@@ -1,0 +1,79 @@
+
+Test Case 1  		<error>
+   Length :  0
+
+
+Test Case 2  		(Key = 2.1.)
+   Length  :  14
+   Number1 :  0
+
+
+Test Case 3  		(Key = 2.2.)
+   Length  :  14
+   Number1 :  33
+
+
+Test Case 4  		(Key = 2.3.)
+   Length  :  14
+   Number1 :  34
+
+
+Test Case 5  		(Key = 2.4.)
+   Length  :  14
+   Number1 :  37
+
+
+Test Case 6  		(Key = 2.5.)
+   Length  :  14
+   Number1 :  38
+
+
+Test Case 7  		(Key = 3.1.)
+   Length  :  15
+   Number1 :  0
+
+
+Test Case 8  		(Key = 3.2.)
+   Length  :  15
+   Number1 :  33
+
+
+Test Case 9  		(Key = 3.3.)
+   Length  :  15
+   Number1 :  34
+
+
+Test Case 10 		(Key = 3.4.)
+   Length  :  15
+   Number1 :  37
+
+
+Test Case 11 		(Key = 3.5.)
+   Length  :  15
+   Number1 :  38
+
+
+Test Case 12 		(Key = 4.1.)
+   Length  :  16
+   Number1 :  0
+
+
+Test Case 13 		(Key = 4.2.)
+   Length  :  16
+   Number1 :  33
+
+
+Test Case 14 		(Key = 4.3.)
+   Length  :  16
+   Number1 :  34
+
+
+Test Case 15 		(Key = 4.4.)
+   Length  :  16
+   Number1 :  37
+
+
+Test Case 16 		(Key = 4.5.)
+   Length  :  16
+   Number1 :  38
+

@@ -1,0 +1,144 @@
+
+Test Case 1  		<error>
+   Length :  0
+
+
+Test Case 2  		(Key = 2.1.)
+   Length :  14
+   Number :  51
+
+
+Test Case 3  		(Key = 2.2.)
+   Length :  14
+   Number :  55
+
+
+Test Case 4  		(Key = 2.3.)
+   Length :  14
+   Number :  2221
+
+
+Test Case 5  		(Key = 2.4.)
+   Length :  14
+   Number :  2720
+
+
+Test Case 6  		(Key = 2.5.)
+   Length :  14
+   Number :  4
+
+
+Test Case 7  		(Key = 2.6.)
+   Length :  14
+   Number :  34
+
+
+Test Case 8  		(Key = 2.7.)
+   Length :  14
+   Number :  37
+
+
+Test Case 9  		(Key = 3.1.)
+   Length :  15
+   Number :  51
+
+
+Test Case 10 		(Key = 3.2.)
+   Length :  15
+   Number :  55
+
+
+Test Case 11 		(Key = 3.3.)
+   Length :  15
+   Number :  2221
+
+
+Test Case 12 		(Key = 3.4.)
+   Length :  15
+   Number :  2720
+
+
+Test Case 13 		(Key = 3.5.)
+   Length :  15
+   Number :  4
+
+
+Test Case 14 		(Key = 3.6.)
+   Length :  15
+   Number :  34
+
+
+Test Case 15 		(Key = 3.7.)
+   Length :  15
+   Number :  37
+
+
+Test Case 16 		(Key = 4.1.)
+   Length :  16
+   Number :  51
+
+
+Test Case 17 		(Key = 4.2.)
+   Length :  16
+   Number :  55
+
+
+Test Case 18 		(Key = 4.3.)
+   Length :  16
+   Number :  2221
+
+
+Test Case 19 		(Key = 4.4.)
+   Length :  16
+   Number :  2720
+
+
+Test Case 20 		(Key = 4.5.)
+   Length :  16
+   Number :  4
+
+
+Test Case 21 		(Key = 4.6.)
+   Length :  16
+   Number :  34
+
+
+Test Case 22 		(Key = 4.7.)
+   Length :  16
+   Number :  37
+
+
+Test Case 23 		(Key = 5.1.)
+   Length :  17
+   Number :  51
+
+
+Test Case 24 		(Key = 5.2.)
+   Length :  17
+   Number :  55
+
+
+Test Case 25 		(Key = 5.3.)
+   Length :  17
+   Number :  2221
+
+
+Test Case 26 		(Key = 5.4.)
+   Length :  17
+   Number :  2720
+
+
+Test Case 27 		(Key = 5.5.)
+   Length :  17
+   Number :  4
+
+
+Test Case 28 		(Key = 5.6.)
+   Length :  17
+   Number :  34
+
+
+Test Case 29 		(Key = 5.7.)
+   Length :  17
+   Number :  37
+
